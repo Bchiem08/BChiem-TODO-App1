@@ -1,0 +1,50 @@
+.title {
+  position: absolute;
+  width: 1000px;
+  left: 25px;
+
+  /* H6 - light 18 */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  /* or 133% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.25px;
+
+  color: #333333;
+}
+
+.textbox {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 60px;
+
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  border-radius: 5px;
+
+  position: absolute;
+  width: 585px;
+  height: 46px;
+
+  /* H6 - med 18 */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  /* or 133% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.25px;
+
+  color: #333333;
+}

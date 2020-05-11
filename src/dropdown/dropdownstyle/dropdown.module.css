@@ -1,0 +1,36 @@
+/* .dropbox {
+  position: absolute;
+  height: 45px;
+  left: 0px;
+  right: 0px;
+  bottom: 1px;
+
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  border-radius: 5px;
+} */
+
+.number {
+  position: absolute;
+  width: 50px;
+  height: 45px;
+  left: 15px;
+  bottom: px;
+
+  /* H6 - med 18 */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  /* or 133% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.25px;
+
+  /* Gray 2 */
+
+  color: #4f4f4f;
+}

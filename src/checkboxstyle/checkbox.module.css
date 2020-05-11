@@ -1,0 +1,30 @@
+/* checkbox */
+
+.priority {
+  position: absolute;
+  width: 132px;
+  height: 18px;
+  left: 30px;
+
+  /* Body 2 - reg 14 */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.25px;
+
+  color: #000000;
+}
+
+.box {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+}
